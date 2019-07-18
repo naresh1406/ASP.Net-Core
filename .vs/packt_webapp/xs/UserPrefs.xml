@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{19142565-CBAB-4281-95F1-9B40D9B099AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="packt_webapp/Startup.cs">
+    <Files>
+      <File FileName="packt_webapp/appsettings.json" Line="1" Column="1" />
+      <File FileName="packt_webapp/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="packt_webapp" expanded="True">
+            <Node name="packt_webapp" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.packt__webapp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
